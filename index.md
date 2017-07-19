@@ -6,7 +6,7 @@ Yale University psychology Professor Paul Bloom is a world renowned expert in ho
 
 Dr. Bloom has written for scientific journals such as Nature and Science, and for popular outlets such as The New York Times, the Guardian, and the Atlantic. He is the author of several books, including '[How Pleasure Works: Why we like what we like](https://www.amazon.com/gp/product/0393340007/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393340007&linkCode=as2&tag=allaboutforen-20&linkId=fde004a8847ae471ac4165a4aad75b6b),' '[Just Babies: The Origins of Good and Evil](https://www.amazon.com/gp/product/0307886859/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307886859&linkCode=as2&tag=allaboutforen-20&linkId=0acd5d7cdc1a3e1ae8a9c9c31b7535c9)' and '[Against Empathy: The Case for Rational Compassion](https://www.amazon.com/gp/product/0062339338/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062339338&linkCode=as2&tag=allaboutforen-20&linkId=2e80f3144a8d4fbeac42586c3feb9e69).'
 
-[!image](http://www.all-about-psychology.com/images/600xNxpaul-bloom-psychology-quote.png.pagespeed.ic.o7NLoVyVOx.webp)
+
 
 ### Professor Bloom's Introduction to Psychology Course Description
 
@@ -31,7 +31,7 @@ This lecture introduces students to two broad theories of how the mind relates t
 
 This lecture introduces students to the theories of Sigmund Freud, including a brief biographical description and his contributions to the field of psychology. The limitations of his theories of psychoanalysis are covered in detail, as well as the ways in which his conception of the unconscious mind still operate in mainstream psychology today.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7emS3ye3cVU" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7emS3ye3cVU?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 
 
@@ -49,7 +49,7 @@ Professor Bloom opens with a brief discussion of the value and evolutionary basi
 This lecture explores issues and ideas related to the branch of psychology known as cognitive development. It begins with an introduction of Piaget who, interested in the emergence of knowledge in general, studied children and the way they learn about the world in order to formulate his theories of cognitive development. This is followed by an introduction to the modern science of infant cognition. Finally, the question of the relationship between and the existence of different kinds of development is addressed.
 
 
-
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/eznq75eBy2o?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 
 
@@ -58,23 +58,28 @@ This lecture explores issues and ideas related to the branch of psychology known
 
 One of the most uniquely human abilities is the capacity for creating and understanding language. This lecture introduces students to the major topics within the study of language: phonology, morphology, syntax and recursion. This lecture also describes theories of language acquisition, arguments for the specialization of language, and the commonalities observed in different languages across cultures.
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Uf9tlbMckS0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ### Lecture 7: Vision and Memory
 
 
 This lecture finishes the discussion of language by briefly reviewing two additional topics: communication systems in non-human primates and other animals, and the relationship between language and thought. The majority of the lecture is then spent on introducing students to major theories and discoveries in the fields of perception, attention and memory. Topics include why we see certain visual illusions, why we don't always see everything we think we see, and the relationship between different types of memory.
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/DmWrOUK2zgA?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ### Lecture 8: Vision and Memory (cont.)
 
 
 In this lecture, Professor Bloom reviews the basic psychological research on memory. Specific topics covered include the different memory types, memory limitations, strategies that improve memory, and memory disorders. This lecture also includes a discussion of several important social implications for memory research, such as recovered memories, and the influence of suggestibility on eyewitness testimony.
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Yuwqr5o58Z0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ### Lecture 9: Love and Attraction
 
 
 Guest lecturer Peter Salovey, Professor of Psychology and Dean of Yale College, introduces students to the dominant psychological theories of love and attraction. Specific topics include the different types of love, the circumstances that predict attraction, and the situations where people mistakenly attribute arousal for love.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/kZoBgX8rScg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 
 ### Lecture 10: Evolution, Emotion, and Reason
@@ -82,18 +87,23 @@ Guest lecturer Peter Salovey, Professor of Psychology and Dean of Yale College, 
 
 In this lecture, Professor Bloom introduces students to the study of psychology from an evolutionary perspective, the idea that like the body, natural selection has shaped the development of the human mind. Prominent arguments for and against the theory of natural selection and its relationship to human psychology are reviewed. Students will hear several examples of how studying mental phenomenon from an evolutionary perspective can help constrain theories in psychology as well as explain many prevalent human instincts that underlie many of our most basic behaviors and decisions.
 
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/AMsQfgV07vU?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ### Lecture 11: Emotions Part 1
 
 
 This lecture is an introduction to the evolutionary analysis of human emotions, how they work, why they exist, and what they communicate. In particular, this lecture discusses three interesting case studies, that of happiness (e.g., smiling), fear and the emotions we feel towards our relatives. Finally, this lecture ends with a brief discussion of babies' emotional responses to their caregivers.
 
-
-
-
-
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/8UySWKNjw5Y?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ### Lecture 12: Emotions Part 2
 
 
 Professor Bloom continues the discussion of emotions as useful evolutionary adaptations for dealing with our social environment. In particular, this lecture describes evolutionary explanations for several important emotional responses, such as the love between parents and their offspring, the gratitude we feel towards cooperative behaviors, the spite we feel for cheaters, and the cultural differences in feelings of revenge.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/i5IrSEIPdwk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+At this point of the course students had to undertake a Midterm Exam, if you would like to have a go at the exam, you can do so by [Clicking Here](http://oyc.yale.edu/sites/default/files/intro2007-midterm.pdf)
+
+
+(The answers to the exam can be [found Here](http://oyc.yale.edu/sites/default/files/midterm-answer-key.pdf)) 
