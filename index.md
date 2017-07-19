@@ -107,3 +107,84 @@ At this point of the course students had to undertake a Midterm Exam, if you wou
 
 
 (The answers to the exam can be [found Here](http://oyc.yale.edu/sites/default/files/midterm-answer-key.pdf)) 
+
+### Lecture 13: Why Are People Different?
+
+
+Why are people different from one another? This lecture addresses this question by reviewing the latest theories and research in psychology on two traits in particular: personality and intelligence. Students will hear about how these traits are measured, why they may differ across individuals and groups, and whether they are influenced at all by one's genes, parents or environment.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/piDznzrNymE?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+### Lecture 14: Sex
+
+
+In this lecture, Professor Bloom reviews what evolutionary theories and recent studies in psychology can tell us about sex and gender differences. Students will hear how psychology can help explain many of the differences that exist in whom we find attractive, what we desire in a mate, and sexual orientation.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/RCNgknc7Qv8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+### Lecture 15: Morality
+
+
+Professor Bloom provides an introduction to psychological theories of morality. Students will learn how research in psychology has helped answer some of the most central questions about human morality. For instance, which emotions are "moral" and why did these moral feelings evolve? What factors guide our moral judgments? And what factors predict when good people will do bad things?
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/xpmESnTeZP8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+
+### Lecture 16: Self and Other, Part 1
+
+
+This is the first of two lectures on social psychology, the study of how we think about ourselves, other people, and social groups. Students will hear about the famous "six degrees of separation" phenomenon and how it illuminates important individual differences in social connectedness. This lecture also reviews a number of important biases that greatly influence how we think of ourselves as well as other people.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/jsrB5m3mL-A?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+### Lecture 17: Self and Other, Part 2
+
+
+This lecture begins with the second half of the discussion on social psychology. Students will learn about several important factors influencing how we form impressions of others, including our ability to form rapid impressions about people. This discussion focuses heavily upon stereotypes, including a discussion of their utility, reliability, and the negative effects that even implicit stereotypes can incur.
+
+
+
+The second half of the lecture introduces students to two prominent mysteries in the field of psychology. First, students will learn what is known and unknown about sleep, including why we sleep, the different types of sleep, disorders, and of course, dreams, what they are about and why we have them. Second, this half reviews how laughter remains a mysterious and interesting psychological phenomenon. Students will hear theories that attempt to explain what causes us to laugh and why, with a particular emphasis on current evolutionary theory
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/S6OfFaBWtx4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+
+
+### Lecture 18: Mental Illness, Part I 
+
+
+Guest lecturer Professor Susan Nolen-Hoeksema describes how modern clinical psychology both identifies and treats various mental disorders. Particular focus is placed upon mood disorders such as bipolar disorder and depression, including current diagnostic criteria and current practices for treatment.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/rW79ZwDPKsY?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+
+
+### Lecture 19: Mental Illness, Part 2
+
+
+In this lecture, Professor Bloom continues to explore psychopathology/clinical psychology. Following a discussion of the different ways of defining mental illness, Professor Bloom reviews several classes of clinical diagnoses including schizophrenia, anxiety disorders, dissociative disorders, and personality disorders. The lecture concludes with a brief introduction to therapy.
+
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/4wtl3q87Rn8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+
+### Lecture 20: Happiness
+
+
+The last lecture in the course wraps up the discussion of clinical psychology with a discussion of treatment efficacy. Does therapy actually work? Professor Bloom summarizes the different types of influences that clinical interventions might have on people who receive therapy.
+
+
+
+Professor Bloom ends with a review of one of the most interesting research topics in "positive psychology," happiness. What makes us happy? How does happiness vary across person and culture? What is happiness for? Students will hear how the most recent research in psychology attempts to answer these questions and learn how people are surprisingly bad at predicting what will make them happiest.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7dep9KPWp3g?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+### Final Exam
+
+If you would like to have a go at the final exam yourself, you can do so by [Clicking Here](http://oyc.yale.edu/sites/default/files/intro_psych110b_final_0.pdf)
