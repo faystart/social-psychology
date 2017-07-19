@@ -7,10 +7,12 @@ Yale University psychology Professor Paul Bloom is a world renowned expert in ho
 Dr. Bloom has written for scientific journals such as Nature and Science, and for popular outlets such as The New York Times, the Guardian, and the Atlantic. He is the author of several books, including '[How Pleasure Works: Why we like what we like](https://www.amazon.com/gp/product/0393340007/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393340007&linkCode=as2&tag=allaboutforen-20&linkId=fde004a8847ae471ac4165a4aad75b6b),' '[Just Babies: The Origins of Good and Evil](https://www.amazon.com/gp/product/0307886859/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307886859&linkCode=as2&tag=allaboutforen-20&linkId=0acd5d7cdc1a3e1ae8a9c9c31b7535c9)' and '[Against Empathy: The Case for Rational Compassion](https://www.amazon.com/gp/product/0062339338/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062339338&linkCode=as2&tag=allaboutforen-20&linkId=2e80f3144a8d4fbeac42586c3feb9e69).'
 
 
-
 ### Professor Bloom's Introduction to Psychology Course Description
 
 What do your dreams mean? Do men and women differ in the nature and intensity of their sexual desires? Can apes learn sign language? Why can’t we tickle ourselves? This course tries to answer these questions and many others, providing a comprehensive overview of the scientific study of thought and behavior. It explores topics such as perception, communication, learning, memory, decision-making, religion, persuasion, love, lust, hunger, art, fiction, and dreams. We will look at how these aspects of the mind develop in children, how they differ across people, how they are wired-up in the brain, and how they break down due to illness and injury.
+
+
+
 
 ### Lecture 1: Introduction
 
@@ -19,12 +21,21 @@ Professor Paul Bloom welcomes students and presents the course as a comprehensiv
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/P3FKHH2RzjI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HUVL53R-vimg1_ws_126_net//image/snapshot_movie/2011/4/4/U/M6VKUHF4U-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HUVL53R-vimg1_ws_126_net//image/snapshot_movie/2011/4/4/U/M6VKUHF4U-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 2: This Is Your Brain
 
 
 This lecture introduces students to two broad theories of how the mind relates to the body. Dualism is the ubiquitous and intuitive feeling that our conscious mind is separate from our physical bodies, whereas Materialism is the idea that all of our mental states are caused by physical states of the brain. Dr. Bloom reviews arguments explaining why materialism has become the predominant theory of mind in psychology. This discussion is followed by a basic overview of the neurophysiology of the brain.
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/vg01Q1BI4WM?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+#### 中文版 
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV016R3-vimg1_ws_126_net//image/snapshot_movie/2011/4/G/M/M6VKUEBGM-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV016R3-vimg1_ws_126_net//image/snapshot_movie/2011/4/G/M/M6VKUEBGM-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 
 ### Lecture 3: Freud
 
@@ -34,6 +45,9 @@ This lecture introduces students to the theories of Sigmund Freud, including a b
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7emS3ye3cVU?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV0280F-vimg1_ws_126_net//image/snapshot_movie/2011/4/R/E/M6VKUEQRE-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV0280F-vimg1_ws_126_net//image/snapshot_movie/2011/4/R/E/M6VKUEQRE-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 
 ### Lecture 4: Skinner
@@ -43,6 +57,10 @@ Professor Bloom opens with a brief discussion of the value and evolutionary basi
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/rCKK6r15fro?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV04P5K-vimg1_ws_126_net//image/snapshot_movie/2011/4/0/4/M6VKUFE04-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV04P5K-vimg1_ws_126_net//image/snapshot_movie/2011/4/0/4/M6VKUFE04-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 5: What is it Like To Be a Baby?
 
 
@@ -50,6 +68,10 @@ This lecture explores issues and ideas related to the branch of psychology known
 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/eznq75eBy2o?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV030IC-vimg1_ws_126_net//image/snapshot_movie/2011/4/I/U/M6VKUMNIU-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV030IC-vimg1_ws_126_net//image/snapshot_movie/2011/4/I/U/M6VKUMNIU-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 
 
@@ -60,12 +82,20 @@ One of the most uniquely human abilities is the capacity for creating and unders
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Uf9tlbMckS0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV06Q4A-vimg1_ws_126_net//image/snapshot_movie/2011/4/5/P/M6VKUOP5P-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV06Q4A-vimg1_ws_126_net//image/snapshot_movie/2011/4/5/P/M6VKUOP5P-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 7: Vision and Memory
 
 
 This lecture finishes the discussion of language by briefly reviewing two additional topics: communication systems in non-human primates and other animals, and the relationship between language and thought. The majority of the lecture is then spent on introducing students to major theories and discoveries in the fields of perception, attention and memory. Topics include why we see certain visual illusions, why we don't always see everything we think we see, and the relationship between different types of memory.
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/DmWrOUK2zgA?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV4BJOL-vimg1_ws_126_net//image/snapshot_movie/2011/4/U/2/M6VKV07U2-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV4BJOL-vimg1_ws_126_net//image/snapshot_movie/2011/4/U/2/M6VKV07U2-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 8: Vision and Memory (cont.)
 
@@ -74,6 +104,10 @@ In this lecture, Professor Bloom reviews the basic psychological research on mem
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Yuwqr5o58Z0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6I4B0SH5-vimg1_ws_126_net//image/snapshot_movie/2010/10/G/E/M6I4B0QGE-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6I4B0SH5-vimg1_ws_126_net//image/snapshot_movie/2010/10/G/E/M6I4B0QGE-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 9: Love and Attraction
 
 
@@ -81,6 +115,9 @@ Guest lecturer Peter Salovey, Professor of Psychology and Dean of Yale College, 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/kZoBgX8rScg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV0K5D1-vimg1_ws_126_net//image/snapshot_movie/2011/5/E/N/M72ORP9EN-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV0K5D1-vimg1_ws_126_net//image/snapshot_movie/2011/5/E/N/M72ORP9EN-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 10: Evolution, Emotion, and Reason
 
@@ -89,6 +126,11 @@ In this lecture, Professor Bloom introduces students to the study of psychology 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/AMsQfgV07vU?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV0RNI0-vimg1_ws_126_net//image/snapshot_movie/2011/1/O/7/M6PELL7O7-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV0RNI0-vimg1_ws_126_net//image/snapshot_movie/2011/1/O/7/M6PELL7O7-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
+
 ### Lecture 11: Emotions Part 1
 
 
@@ -96,12 +138,24 @@ This lecture is an introduction to the evolutionary analysis of human emotions, 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/8UySWKNjw5Y?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV142OH-vimg1_ws_126_net//image/snapshot_movie/2010/12/6/8/M6NJG1568-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV142OH-vimg1_ws_126_net//image/snapshot_movie/2010/12/6/8/M6NJG1568-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 12: Emotions Part 2
 
 
 Professor Bloom continues the discussion of emotions as useful evolutionary adaptations for dealing with our social environment. In particular, this lecture describes evolutionary explanations for several important emotional responses, such as the love between parents and their offspring, the gratitude we feel towards cooperative behaviors, the spite we feel for cheaters, and the cultural differences in feelings of revenge.
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/i5IrSEIPdwk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1F27H-vimg1_ws_126_net//image/snapshot_movie/2011/1/B/3/M6PELJRB3-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1F27H-vimg1_ws_126_net//image/snapshot_movie/2011/1/B/3/M6PELJRB3-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
+
 
 At this point of the course students had to undertake a Midterm Exam, if you would like to have a go at the exam, you can do so by [Clicking Here](http://oyc.yale.edu/sites/default/files/intro2007-midterm.pdf)
 
@@ -115,6 +169,10 @@ Why are people different from one another? This lecture addresses this question 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/piDznzrNymE?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1DO3T-vimg1_ws_126_net//image/snapshot_movie/2010/11/3/S/M6KR3J63S-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1DO3T-vimg1_ws_126_net//image/snapshot_movie/2010/11/3/S/M6KR3J63S-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 14: Sex
 
 
@@ -123,6 +181,10 @@ In this lecture, Professor Bloom reviews what evolutionary theories and recent s
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/RCNgknc7Qv8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1CMAF-vimg1_ws_126_net//image/snapshot_movie/2010/11/E/H/M6LAI8QEH-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1CMAF-vimg1_ws_126_net//image/snapshot_movie/2010/11/E/H/M6LAI8QEH-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+
 ### Lecture 15: Morality
 
 
@@ -130,7 +192,9 @@ Professor Bloom provides an introduction to psychological theories of morality. 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/xpmESnTeZP8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
 
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1QFR8-vimg1_ws_126_net//image/snapshot_movie/2010/11/V/L/M6LD7T9VL-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1QFR8-vimg1_ws_126_net//image/snapshot_movie/2010/11/V/L/M6LD7T9VL-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 16: Self and Other, Part 1
 
@@ -139,6 +203,10 @@ This is the first of two lectures on social psychology, the study of how we thin
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/jsrB5m3mL-A?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1QO2U-vimg1_ws_126_net//image/snapshot_movie/2010/12/H/B/M6LVJI6HB-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV1QO2U-vimg1_ws_126_net//image/snapshot_movie/2010/12/H/B/M6LVJI6HB-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 17: Self and Other, Part 2
 
@@ -151,7 +219,9 @@ The second half of the lecture introduces students to two prominent mysteries in
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/S6OfFaBWtx4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
 
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV275P1-vimg1_ws_126_net//image/snapshot_movie/2011/5/A/I/M72OSADAI-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV275P1-vimg1_ws_126_net//image/snapshot_movie/2011/5/A/I/M72OSADAI-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 
 ### Lecture 18: Mental Illness, Part I 
@@ -162,7 +232,9 @@ Guest lecturer Professor Susan Nolen-Hoeksema describes how modern clinical psyc
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/rW79ZwDPKsY?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 
+#### 中文版
 
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV26RNS-vimg1_ws_126_net//image/snapshot_movie/2011/5/3/1/M72OSA231-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV26RNS-vimg1_ws_126_net//image/snapshot_movie/2011/5/3/1/M72OSA231-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 19: Mental Illness, Part 2
 
@@ -172,7 +244,9 @@ In this lecture, Professor Bloom continues to explore psychopathology/clinical p
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/4wtl3q87Rn8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
+#### 中文版
 
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV275P1-vimg1_ws_126_net//image/snapshot_movie/2011/5/A/I/M72OSADAI-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV275P1-vimg1_ws_126_net//image/snapshot_movie/2011/5/A/I/M72OSADAI-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 20: Happiness
 
@@ -184,6 +258,10 @@ The last lecture in the course wraps up the discussion of clinical psychology wi
 Professor Bloom ends with a review of one of the most interesting research topics in "positive psychology," happiness. What makes us happy? How does happiness vary across person and culture? What is happiness for? Students will hear how the most recent research in psychology attempts to answer these questions and learn how people are surprisingly bad at predicting what will make them happiest.
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7dep9KPWp3g?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+#### 中文版
+
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV28LA7-vimg1_ws_126_net//image/snapshot_movie/2010/10/J/I/M6HV28IJI-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HV28LA7-vimg1_ws_126_net//image/snapshot_movie/2010/10/J/I/M6HV28IJI-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Final Exam
 
