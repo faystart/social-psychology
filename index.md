@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+## Learn Psychology
 
-You can use the [editor on GitHub](https://github.com/faystart/social-psychology/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Professor Paul Bloom
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yale University psychology Professor Paul Bloom is a world renowned expert in how children and adults understand the physical and social world, particularly in relation to morality, religion, fiction, and art. He has won numerous awards for his research and teaching. He is past-president of the Society for Philosophy and Psychology, and co-editor of Behavioral and Brain Sciences, one of the major journals in the field.
 
-### Markdown
+Dr. Bloom has written for scientific journals such as Nature and Science, and for popular outlets such as The New York Times, the Guardian, and the Atlantic. He is the author of several books, including '[How Pleasure Works: Why we like what we like](https://www.amazon.com/gp/product/0393340007/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393340007&linkCode=as2&tag=allaboutforen-20&linkId=fde004a8847ae471ac4165a4aad75b6b),' '[Just Babies: The Origins of Good and Evil](https://www.amazon.com/gp/product/0307886859/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307886859&linkCode=as2&tag=allaboutforen-20&linkId=0acd5d7cdc1a3e1ae8a9c9c31b7535c9)' and '[Against Empathy: The Case for Rational Compassion](https://www.amazon.com/gp/product/0062339338/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062339338&linkCode=as2&tag=allaboutforen-20&linkId=2e80f3144a8d4fbeac42586c3feb9e69).'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[!image](http://www.all-about-psychology.com/images/600xNxpaul-bloom-psychology-quote.png.pagespeed.ic.o7NLoVyVOx.webp)
 
-```markdown
-Syntax highlighted code block
+### Professor Bloom's Introduction to Psychology Course Description
 
-# Header 1
-## Header 2
-### Header 3
+What do your dreams mean? Do men and women differ in the nature and intensity of their sexual desires? Can apes learn sign language? Why can’t we tickle ourselves? This course tries to answer these questions and many others, providing a comprehensive overview of the scientific study of thought and behavior. It explores topics such as perception, communication, learning, memory, decision-making, religion, persuasion, love, lust, hunger, art, fiction, and dreams. We will look at how these aspects of the mind develop in children, how they differ across people, how they are wired-up in the brain, and how they break down due to illness and injury.
 
-- Bulleted
-- List
+### Lecture 1: Introduction
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Professor Paul Bloom welcomes students and presents the course as a comprehensive introduction to the study of the human mind. Course readings and requirements are discussed. The five main branches of psychology are presented: neuroscience, which is a study of the mind by looking at the brain; developmental, which focuses on how people grow and learn; cognitive, which refers to the computational approach to studying the mind; social, which studies how people interact; and clinical, which examines mental health and mental illnesses.
 
-[Link](url) and ![Image](src)
-```
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/P3FKHH2RzjI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Lecture 2: This Is Your Brain
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faystart/social-psychology/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This lecture introduces students to two broad theories of how the mind relates to the body. Dualism is the ubiquitous and intuitive feeling that our conscious mind is separate from our physical bodies, whereas Materialism is the idea that all of our mental states are caused by physical states of the brain. Dr. Bloom reviews arguments explaining why materialism has become the predominant theory of mind in psychology. This discussion is followed by a basic overview of the neurophysiology of the brain.
 
-### Support or Contact
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/vg01Q1BI4WM?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Lecture 3: Freud
+
+
+This lecture introduces students to the theories of Sigmund Freud, including a brief biographical description and his contributions to the field of psychology. The limitations of his theories of psychoanalysis are covered in detail, as well as the ways in which his conception of the unconscious mind still operate in mainstream psychology today.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7emS3ye3cVU" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+### Lecture 4: Skinner
+
+
+Professor Bloom opens with a brief discussion of the value and evolutionary basis of unconscious processing. The rest of this lecture introduces students to the theory of Behaviorism, particularly the work of prominent behaviorist, B. F. Skinner. Different types of learning are discussed in detail, as well as reasons why behaviorism has been largely displaced as an adequate theory of human mental life.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/rCKK6r15fro?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+
+### Lecture 5: What is it Like To Be a Baby?
+
+
+This lecture explores issues and ideas related to the branch of psychology known as cognitive development. It begins with an introduction of Piaget who, interested in the emergence of knowledge in general, studied children and the way they learn about the world in order to formulate his theories of cognitive development. This is followed by an introduction to the modern science of infant cognition. Finally, the question of the relationship between and the existence of different kinds of development is addressed.
+
+
+
+
+
+
+### Lecture 6: How Do We Communicate?
+
+
+One of the most uniquely human abilities is the capacity for creating and understanding language. This lecture introduces students to the major topics within the study of language: phonology, morphology, syntax and recursion. This lecture also describes theories of language acquisition, arguments for the specialization of language, and the commonalities observed in different languages across cultures.
+
+
+### Lecture 7: Vision and Memory
+
+
+This lecture finishes the discussion of language by briefly reviewing two additional topics: communication systems in non-human primates and other animals, and the relationship between language and thought. The majority of the lecture is then spent on introducing students to major theories and discoveries in the fields of perception, attention and memory. Topics include why we see certain visual illusions, why we don't always see everything we think we see, and the relationship between different types of memory.
+
+
+### Lecture 8: Vision and Memory (cont.)
+
+
+In this lecture, Professor Bloom reviews the basic psychological research on memory. Specific topics covered include the different memory types, memory limitations, strategies that improve memory, and memory disorders. This lecture also includes a discussion of several important social implications for memory research, such as recovered memories, and the influence of suggestibility on eyewitness testimony.
+
+
+### Lecture 9: Love and Attraction
+
+
+Guest lecturer Peter Salovey, Professor of Psychology and Dean of Yale College, introduces students to the dominant psychological theories of love and attraction. Specific topics include the different types of love, the circumstances that predict attraction, and the situations where people mistakenly attribute arousal for love.
+
+
+### Lecture 10: Evolution, Emotion, and Reason
+
+
+In this lecture, Professor Bloom introduces students to the study of psychology from an evolutionary perspective, the idea that like the body, natural selection has shaped the development of the human mind. Prominent arguments for and against the theory of natural selection and its relationship to human psychology are reviewed. Students will hear several examples of how studying mental phenomenon from an evolutionary perspective can help constrain theories in psychology as well as explain many prevalent human instincts that underlie many of our most basic behaviors and decisions.
+
+
+### Lecture 11: Emotions Part 1
+
+
+This lecture is an introduction to the evolutionary analysis of human emotions, how they work, why they exist, and what they communicate. In particular, this lecture discusses three interesting case studies, that of happiness (e.g., smiling), fear and the emotions we feel towards our relatives. Finally, this lecture ends with a brief discussion of babies' emotional responses to their caregivers.
+
+
+
+
+
+
+### Lecture 12: Emotions Part 2
+
+
+Professor Bloom continues the discussion of emotions as useful evolutionary adaptations for dealing with our social environment. In particular, this lecture describes evolutionary explanations for several important emotional responses, such as the love between parents and their offspring, the gratitude we feel towards cooperative behaviors, the spite we feel for cheaters, and the cultural differences in feelings of revenge.
