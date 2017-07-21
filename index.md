@@ -16,8 +16,11 @@ What do your dreams mean? Do men and women differ in the nature and intensity of
 
 ### Lecture 1: Introduction
 
-
 Professor Paul Bloom welcomes students and presents the course as a comprehensive introduction to the study of the human mind. Course readings and requirements are discussed. The five main branches of psychology are presented: neuroscience, which is a study of the mind by looking at the brain; developmental, which focuses on how people grow and learn; cognitive, which refers to the computational approach to studying the mind; social, which studies how people interact; and clinical, which examines mental health and mental illnesses.
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class01.pdf)
+
+
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/P3FKHH2RzjI?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -27,8 +30,13 @@ Professor Paul Bloom welcomes students and presents the course as a comprehensiv
 
 ### Lecture 2: This Is Your Brain
 
-
 This lecture introduces students to two broad theories of how the mind relates to the body. Dualism is the ubiquitous and intuitive feeling that our conscious mind is separate from our physical bodies, whereas Materialism is the idea that all of our mental states are caused by physical states of the brain. Dr. Bloom reviews arguments explaining why materialism has become the predominant theory of mind in psychology. This discussion is followed by a basic overview of the neurophysiology of the brain.
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class02_0.pdf)
+
+
+
+
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/vg01Q1BI4WM?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -39,8 +47,9 @@ This lecture introduces students to two broad theories of how the mind relates t
 
 ### Lecture 3: Freud
 
-
 This lecture introduces students to the theories of Sigmund Freud, including a brief biographical description and his contributions to the field of psychology. The limitations of his theories of psychoanalysis are covered in detail, as well as the ways in which his conception of the unconscious mind still operate in mainstream psychology today.
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class03.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7emS3ye3cVU?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -52,8 +61,9 @@ This lecture introduces students to the theories of Sigmund Freud, including a b
 
 ### Lecture 4: Skinner
 
-
 Professor Bloom opens with a brief discussion of the value and evolutionary basis of unconscious processing. The rest of this lecture introduces students to the theory of Behaviorism, particularly the work of prominent behaviorist, B. F. Skinner. Different types of learning are discussed in detail, as well as reasons why behaviorism has been largely displaced as an adequate theory of human mental life.
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class04.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/rCKK6r15fro?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -63,8 +73,9 @@ Professor Bloom opens with a brief discussion of the value and evolutionary basi
 
 ### Lecture 5: What is it Like To Be a Baby?
 
-
 This lecture explores issues and ideas related to the branch of psychology known as cognitive development. It begins with an introduction of Piaget who, interested in the emergence of knowledge in general, studied children and the way they learn about the world in order to formulate his theories of cognitive development. This is followed by an introduction to the modern science of infant cognition. Finally, the question of the relationship between and the existence of different kinds of development is addressed.
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class05.pdf)
 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/eznq75eBy2o?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
@@ -77,8 +88,13 @@ This lecture explores issues and ideas related to the branch of psychology known
 
 ### Lecture 6: How Do We Communicate?
 
-
 One of the most uniquely human abilities is the capacity for creating and understanding language. This lecture introduces students to the major topics within the study of language: phonology, morphology, syntax and recursion. This lecture also describes theories of language acquisition, arguments for the specialization of language, and the commonalities observed in different languages across cultures.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class06.pdf)
+
+
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Uf9tlbMckS0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -88,8 +104,11 @@ One of the most uniquely human abilities is the capacity for creating and unders
 
 ### Lecture 7: Vision and Memory
 
-
 This lecture finishes the discussion of language by briefly reviewing two additional topics: communication systems in non-human primates and other animals, and the relationship between language and thought. The majority of the lecture is then spent on introducing students to major theories and discoveries in the fields of perception, attention and memory. Topics include why we see certain visual illusions, why we don't always see everything we think we see, and the relationship between different types of memory.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class07.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/DmWrOUK2zgA?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -99,8 +118,11 @@ This lecture finishes the discussion of language by briefly reviewing two additi
 
 ### Lecture 8: Vision and Memory (cont.)
 
-
 In this lecture, Professor Bloom reviews the basic psychological research on memory. Specific topics covered include the different memory types, memory limitations, strategies that improve memory, and memory disorders. This lecture also includes a discussion of several important social implications for memory research, such as recovered memories, and the influence of suggestibility on eyewitness testimony.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class08.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/Yuwqr5o58Z0?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -110,8 +132,11 @@ In this lecture, Professor Bloom reviews the basic psychological research on mem
 
 ### Lecture 9: Love and Attraction
 
-
 Guest lecturer Peter Salovey, Professor of Psychology and Dean of Yale College, introduces students to the dominant psychological theories of love and attraction. Specific topics include the different types of love, the circumstances that predict attraction, and the situations where people mistakenly attribute arousal for love.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class09.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/kZoBgX8rScg?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -121,8 +146,11 @@ Guest lecturer Peter Salovey, Professor of Psychology and Dean of Yale College, 
 
 ### Lecture 10: Evolution, Emotion, and Reason
 
-
 In this lecture, Professor Bloom introduces students to the study of psychology from an evolutionary perspective, the idea that like the body, natural selection has shaped the development of the human mind. Prominent arguments for and against the theory of natural selection and its relationship to human psychology are reviewed. Students will hear several examples of how studying mental phenomenon from an evolutionary perspective can help constrain theories in psychology as well as explain many prevalent human instincts that underlie many of our most basic behaviors and decisions.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class10.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/AMsQfgV07vU?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -133,8 +161,11 @@ In this lecture, Professor Bloom introduces students to the study of psychology 
 
 ### Lecture 11: Emotions Part 1
 
-
 This lecture is an introduction to the evolutionary analysis of human emotions, how they work, why they exist, and what they communicate. In particular, this lecture discusses three interesting case studies, that of happiness (e.g., smiling), fear and the emotions we feel towards our relatives. Finally, this lecture ends with a brief discussion of babies' emotional responses to their caregivers.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class11.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/8UySWKNjw5Y?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -145,8 +176,11 @@ This lecture is an introduction to the evolutionary analysis of human emotions, 
 
 ### Lecture 12: Emotions Part 2
 
-
 Professor Bloom continues the discussion of emotions as useful evolutionary adaptations for dealing with our social environment. In particular, this lecture describes evolutionary explanations for several important emotional responses, such as the love between parents and their offspring, the gratitude we feel towards cooperative behaviors, the spite we feel for cheaters, and the cultural differences in feelings of revenge.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class12.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/i5IrSEIPdwk?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -164,8 +198,11 @@ At this point of the course students had to undertake a Midterm Exam, if you wou
 
 ### Lecture 13: Why Are People Different?
 
-
 Why are people different from one another? This lecture addresses this question by reviewing the latest theories and research in psychology on two traits in particular: personality and intelligence. Students will hear about how these traits are measured, why they may differ across individuals and groups, and whether they are influenced at all by one's genes, parents or environment.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class13.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/piDznzrNymE?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -175,8 +212,11 @@ Why are people different from one another? This lecture addresses this question 
 
 ### Lecture 14: Sex
 
-
 In this lecture, Professor Bloom reviews what evolutionary theories and recent studies in psychology can tell us about sex and gender differences. Students will hear how psychology can help explain many of the differences that exist in whom we find attractive, what we desire in a mate, and sexual orientation.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class14.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/RCNgknc7Qv8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -187,8 +227,11 @@ In this lecture, Professor Bloom reviews what evolutionary theories and recent s
 
 ### Lecture 15: Morality
 
-
 Professor Bloom provides an introduction to psychological theories of morality. Students will learn how research in psychology has helped answer some of the most central questions about human morality. For instance, which emotions are "moral" and why did these moral feelings evolve? What factors guide our moral judgments? And what factors predict when good people will do bad things?
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class15.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/xpmESnTeZP8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -198,8 +241,11 @@ Professor Bloom provides an introduction to psychological theories of morality. 
 
 ### Lecture 16: Self and Other, Part 1
 
-
 This is the first of two lectures on social psychology, the study of how we think about ourselves, other people, and social groups. Students will hear about the famous "six degrees of separation" phenomenon and how it illuminates important individual differences in social connectedness. This lecture also reviews a number of important biases that greatly influence how we think of ourselves as well as other people.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class16.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/jsrB5m3mL-A?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -217,6 +263,10 @@ This lecture begins with the second half of the discussion on social psychology.
 
 The second half of the lecture introduces students to two prominent mysteries in the field of psychology. First, students will learn what is known and unknown about sleep, including why we sleep, the different types of sleep, disorders, and of course, dreams, what they are about and why we have them. Second, this half reviews how laughter remains a mysterious and interesting psychological phenomenon. Students will hear theories that attempt to explain what causes us to laugh and why, with a particular emphasis on current evolutionary theory
 
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class17.pdf)
+
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/S6OfFaBWtx4?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 #### 中文版
@@ -226,8 +276,11 @@ The second half of the lecture introduces students to two prominent mysteries in
 
 ### Lecture 18: Mental Illness, Part I 
 
-
 Guest lecturer Professor Susan Nolen-Hoeksema describes how modern clinical psychology both identifies and treats various mental disorders. Particular focus is placed upon mood disorders such as bipolar disorder and depression, including current diagnostic criteria and current practices for treatment.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class18.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/rW79ZwDPKsY?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
@@ -238,8 +291,11 @@ Guest lecturer Professor Susan Nolen-Hoeksema describes how modern clinical psyc
 
 ### Lecture 19: Mental Illness, Part 2
 
-
 In this lecture, Professor Bloom continues to explore psychopathology/clinical psychology. Following a discussion of the different ways of defining mental illness, Professor Bloom reviews several classes of clinical diagnoses including schizophrenia, anxiety disorders, dissociative disorders, and personality disorders. The lecture concludes with a brief introduction to therapy.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class19_1.pdf)
 
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/4wtl3q87Rn8?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
@@ -256,6 +312,10 @@ The last lecture in the course wraps up the discussion of clinical psychology wi
 
 
 Professor Bloom ends with a review of one of the most interesting research topics in "positive psychology," happiness. What makes us happy? How does happiness vary across person and culture? What is happiness for? Students will hear how the most recent research in psychology attempts to answer these questions and learn how people are surprisingly bad at predicting what will make them happiest.
+
+
+
+[PPT](https://github.com/faystart/social-psychology/raw/master/content/ppt/class20.pdf)
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/7dep9KPWp3g?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
