@@ -26,7 +26,7 @@ Professor Paul Bloom welcomes students and presents the course as a comprehensiv
 
 #### 中文版
 
-<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HUVL53R-vimg1_ws_126_net//image/snapshot_movie/2011/4/4/U/M6VKUHF4U-1430711943278.swf"><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HUVL53R-vimg1_ws_126_net//image/snapshot_movie/2011/4/4/U/M6VKUHF4U-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
+<object width="640" height="360"><param name="movie" value="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HUVL53R-vimg1_ws_126_net//image/snapshot_movie/2011/4/4/U/M6VKUHF4U-1430711943278.swf"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://swf.ws.126.net/openplayer/v01/-0-2_M6HUJ9GBL_M6HUVL53R-vimg1_ws_126_net//image/snapshot_movie/2011/4/4/U/M6VKUHF4U-1430711943278.swf" type="application/x-shockwave-flash" width="640" height="360" allowFullScreen="true" wmode="transparent" allowScriptAccess="always"></embed></object>
 
 ### Lecture 2: This Is Your Brain
 
